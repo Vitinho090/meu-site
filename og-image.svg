@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Investidor do Zero Método ROTA">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#071a33"/>
+      <stop offset="100%" stop-color="#0c2849"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#20c997"/>
+      <stop offset="100%" stop-color="#119b74"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="980" cy="140" r="180" fill="#20c997" opacity="0.18"/>
+  <text x="90" y="210" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="4">INVESTIDOR DO ZERO</text>
+  <text x="90" y="310" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800">Descubra sua rota</text>
+  <text x="90" y="390" fill="#20c997" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800">como investidor.</text>
+  <rect x="90" y="445" width="540" height="6" rx="3" fill="url(#green)"/>
+  <text x="90" y="510" fill="#dfeaf5" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600">Método ROTA™</text>
+</svg>
